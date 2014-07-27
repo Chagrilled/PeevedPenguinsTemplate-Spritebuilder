@@ -73,8 +73,8 @@
 						<string>Position</string>
 						<key>value</key>
 						<array>
-							<real>0.5</real>
-							<real>0.5</real>
+							<real>0.49471831321716309</real>
+							<real>0.49687498807907104</real>
 							<integer>0</integer>
 							<integer>2</integer>
 							<integer>2</integer>
@@ -98,8 +98,8 @@
 						<string>ScaleLock</string>
 						<key>value</key>
 						<array>
-							<real>1.9911953210830688</real>
-							<real>2.0053713321685791</real>
+							<real>1.0099059343338013</real>
+							<real>1.0058754682540894</real>
 							<false/>
 							<integer>0</integer>
 						</array>
@@ -162,8 +162,8 @@
 						<string>Position</string>
 						<key>value</key>
 						<array>
-							<real>280.92593383789062</real>
-							<real>83.14837646484375</real>
+							<real>273.92593383789062</real>
+							<real>78.14837646484375</real>
 							<integer>0</integer>
 							<integer>0</integer>
 							<integer>0</integer>
@@ -187,8 +187,8 @@
 						<string>ScaleLock</string>
 						<key>value</key>
 						<array>
-							<real>1.6981401443481445</real>
-							<real>1.7457919120788574</real>
+							<real>1.0058395862579346</real>
+							<real>0.86300832033157349</real>
 							<false/>
 							<integer>0</integer>
 						</array>
@@ -211,8 +211,8 @@
 						<string>Size</string>
 						<key>value</key>
 						<array>
-							<real>83.5</real>
-							<real>76</real>
+							<real>167</real>
+							<real>152</real>
 							<integer>0</integer>
 							<integer>0</integer>
 						</array>
@@ -527,8 +527,6 @@
 				</array>
 			</dict>
 		</array>
-		<key>selected</key>
-		<true/>
 	</dict>
 	<key>notes</key>
 	<array/>

@@ -10,7 +10,7 @@
 		<false/>
 	</dict>
 	<key>UUID</key>
-	<integer>7</integer>
+	<integer>8</integer>
 	<key>centeredOrigin</key>
 	<false/>
 	<key>currentResolution</key>
@@ -71,8 +71,8 @@
 						<string>Position</string>
 						<key>value</key>
 						<array>
-							<real>-0.73889988660812378</real>
-							<real>-0.25860640406608582</real>
+							<real>-0.73889994621276855</real>
+							<real>-0.2586064338684082</real>
 							<integer>0</integer>
 							<integer>0</integer>
 							<integer>0</integer>
@@ -96,8 +96,8 @@
 						<string>ScaleLock</string>
 						<key>value</key>
 						<array>
-							<real>2.0018682479858398</real>
-							<real>2.0146687030792236</real>
+							<real>1.0007448196411133</real>
+							<real>1.0040273666381836</real>
 							<false/>
 							<integer>0</integer>
 						</array>
@@ -160,8 +160,8 @@
 						<string>Position</string>
 						<key>value</key>
 						<array>
-							<real>76.432098388671875</real>
-							<real>88.064468383789062</real>
+							<real>62.432098388671875</real>
+							<real>76.064468383789062</real>
 							<integer>0</integer>
 							<integer>0</integer>
 							<integer>0</integer>
@@ -174,8 +174,8 @@
 						<string>ScaleLock</string>
 						<key>value</key>
 						<array>
-							<real>2.1713926792144775</real>
-							<real>2.0244626998901367</real>
+							<real>0.9541550874710083</real>
+							<real>0.89328771829605103</real>
 							<false/>
 							<integer>0</integer>
 						</array>
@@ -198,7 +198,7 @@
 				<key>children</key>
 				<array/>
 				<key>customClass</key>
-				<string>Gameplay</string>
+				<string></string>
 				<key>displayName</key>
 				<string>catapultarm</string>
 				<key>memberVarAssignmentName</key>
@@ -222,8 +222,8 @@
 						<string>Position</string>
 						<key>value</key>
 						<array>
-							<real>219.12985229492188</real>
-							<real>110.13961029052734</real>
+							<real>210.12985229492188</real>
+							<real>106.13961791992188</real>
 							<integer>0</integer>
 							<integer>0</integer>
 							<integer>0</integer>
@@ -247,8 +247,8 @@
 						<string>ScaleLock</string>
 						<key>value</key>
 						<array>
-							<real>2.0519294738769531</real>
-							<real>1.5663460493087769</real>
+							<real>1.2352370023727417</real>
+							<real>0.92164194583892822</real>
 							<false/>
 							<integer>0</integer>
 						</array>
@@ -311,8 +311,8 @@
 						<string>Position</string>
 						<key>value</key>
 						<array>
-							<real>251.73153686523438</real>
-							<real>86.390777587890625</real>
+							<real>248.7315673828125</real>
+							<real>87.390777587890625</real>
 							<integer>0</integer>
 							<integer>0</integer>
 							<integer>0</integer>
@@ -336,8 +336,8 @@
 						<string>ScaleLock</string>
 						<key>value</key>
 						<array>
-							<real>1.9344830513000488</real>
-							<real>1.7761259078979492</real>
+							<real>0.97092175483703613</real>
+							<real>0.79607951641082764</real>
 							<false/>
 							<integer>0</integer>
 						</array>
@@ -400,7 +400,7 @@
 						<string>Position</string>
 						<key>value</key>
 						<array>
-							<real>-0.22384563088417053</real>
+							<real>-1.2238457202911377</real>
 							<real>3.9266514778137207</real>
 							<integer>0</integer>
 							<integer>0</integer>
@@ -425,8 +425,8 @@
 						<string>ScaleLock</string>
 						<key>value</key>
 						<array>
-							<real>1.999793529510498</real>
-							<real>2.0030407905578613</real>
+							<real>1.0007705688476562</real>
+							<real>1.076507568359375</real>
 							<false/>
 							<integer>0</integer>
 						</array>
@@ -595,9 +595,106 @@
 				<key>seqExpanded</key>
 				<true/>
 			</dict>
+			<dict>
+				<key>UUID</key>
+				<integer>7</integer>
+				<key>baseClass</key>
+				<string>CCPhysicsNode</string>
+				<key>children</key>
+				<array/>
+				<key>customClass</key>
+				<string></string>
+				<key>displayName</key>
+				<string>CCPhysicsNode</string>
+				<key>memberVarAssignmentName</key>
+				<string>_physicsNode</string>
+				<key>memberVarAssignmentType</key>
+				<integer>1</integer>
+				<key>properties</key>
+				<array>
+					<dict>
+						<key>name</key>
+						<string>name</string>
+						<key>type</key>
+						<string>StringSimple</string>
+						<key>value</key>
+						<string></string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>position</string>
+						<key>type</key>
+						<string>Position</string>
+						<key>value</key>
+						<array>
+							<real>0.0</real>
+							<real>0.0</real>
+							<integer>0</integer>
+							<integer>0</integer>
+							<integer>0</integer>
+						</array>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>contentSize</string>
+						<key>type</key>
+						<string>Size</string>
+						<key>value</key>
+						<array>
+							<real>0.0</real>
+							<real>0.0</real>
+							<integer>0</integer>
+							<integer>0</integer>
+						</array>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>anchorPoint</string>
+						<key>type</key>
+						<string>Point</string>
+						<key>value</key>
+						<array>
+							<real>0.0</real>
+							<real>0.0</real>
+						</array>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>scale</string>
+						<key>type</key>
+						<string>ScaleLock</string>
+						<key>value</key>
+						<array>
+							<real>1</real>
+							<real>1</real>
+							<false/>
+							<integer>0</integer>
+						</array>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>gravity</string>
+						<key>type</key>
+						<string>Point</string>
+						<key>value</key>
+						<array>
+							<real>0.0</real>
+							<real>-100</real>
+						</array>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>sleepTimeThreshold</string>
+						<key>type</key>
+						<string>Float</string>
+						<key>value</key>
+						<real>0.5</real>
+					</dict>
+				</array>
+			</dict>
 		</array>
 		<key>customClass</key>
-		<string></string>
+		<string>Gameplay</string>
 		<key>displayName</key>
 		<string>CCNode</string>
 		<key>memberVarAssignmentName</key>
@@ -666,6 +763,8 @@
 				</array>
 			</dict>
 		</array>
+		<key>selected</key>
+		<true/>
 	</dict>
 	<key>notes</key>
 	<array/>
