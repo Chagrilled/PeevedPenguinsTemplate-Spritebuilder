@@ -71,8 +71,8 @@
 						<string>Position</string>
 						<key>value</key>
 						<array>
-							<real>-92</real>
-							<real>17</real>
+							<real>-19</real>
+							<real>-19</real>
 							<integer>0</integer>
 							<integer>0</integer>
 							<integer>0</integer>
@@ -221,8 +221,8 @@
 						<string>Position</string>
 						<key>value</key>
 						<array>
-							<real>-78.254676818847656</real>
-							<real>42.258140563964844</real>
+							<real>-7.9317173957824707</real>
+							<real>5.258141040802002</real>
 							<integer>0</integer>
 							<integer>0</integer>
 							<integer>0</integer>
