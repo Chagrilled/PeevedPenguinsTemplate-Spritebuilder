@@ -223,7 +223,7 @@
 					<key>collisionType</key>
 					<string></string>
 					<key>cornerRadius</key>
-					<real>0.0099999997764825821</real>
+					<real>0.0</real>
 					<key>density</key>
 					<real>1</real>
 					<key>dynamic</key>
@@ -531,7 +531,7 @@
 					<key>collisionType</key>
 					<string></string>
 					<key>cornerRadius</key>
-					<real>0.0099999997764825821</real>
+					<real>0.0</real>
 					<key>density</key>
 					<real>1</real>
 					<key>dynamic</key>
@@ -685,7 +685,7 @@
 					<key>collisionType</key>
 					<string></string>
 					<key>cornerRadius</key>
-					<real>0.0099999997764825821</real>
+					<real>0.0</real>
 					<key>density</key>
 					<real>1</real>
 					<key>dynamic</key>
@@ -839,7 +839,7 @@
 					<key>collisionType</key>
 					<string></string>
 					<key>cornerRadius</key>
-					<real>0.0099999997764825821</real>
+					<real>0.0</real>
 					<key>density</key>
 					<real>1</real>
 					<key>dynamic</key>
@@ -962,8 +962,6 @@
 						</array>
 					</dict>
 				</array>
-				<key>selected</key>
-				<true/>
 			</dict>
 			<dict>
 				<key>UUID</key>
@@ -1026,6 +1024,8 @@
 						<string>Seal.ccb</string>
 					</dict>
 				</array>
+				<key>selected</key>
+				<true/>
 			</dict>
 			<dict>
 				<key>UUID</key>
